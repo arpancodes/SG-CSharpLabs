@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_HelloWorld", "cs_con_HelloWorld\cs_con_HelloWorld.csproj", "{75BA7FFF-FEDE-47CE-97BB-058A19685185}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_ClassVsStruct", "cs_con_ClassVsStruct\cs_con_ClassVsStruct.csproj", "{50F0F638-FF1C-4427-B5A0-F944FFED4A91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_ConvertTypes", "cs_con_ConvertTypes\cs_con_ConvertTypes.csproj", "{A1C7703C-52A7-4524-AD0F-C5A52E0BC44C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_MethodParameters", "cs_con_MethodParameters\cs_con_MethodParameters.csproj", "{145CE83D-7D1E-4988-B8BD-02F375B75300}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notes", "Notes", "{DB9C7E7F-FA8A-41E0-8E28-62F0AE281332}"
+	ProjectSection(SolutionItems) = preProject
+		Notes\2124C.pdf = Notes\2124C.pdf
+		Notes\DotNet Framework.pdf = Notes\DotNet Framework.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BA7FFF-FEDE-47CE-97BB-058A19685185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BA7FFF-FEDE-47CE-97BB-058A19685185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BA7FFF-FEDE-47CE-97BB-058A19685185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BA7FFF-FEDE-47CE-97BB-058A19685185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F0F638-FF1C-4427-B5A0-F944FFED4A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F0F638-FF1C-4427-B5A0-F944FFED4A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F0F638-FF1C-4427-B5A0-F944FFED4A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F0F638-FF1C-4427-B5A0-F944FFED4A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C7703C-52A7-4524-AD0F-C5A52E0BC44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C7703C-52A7-4524-AD0F-C5A52E0BC44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C7703C-52A7-4524-AD0F-C5A52E0BC44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C7703C-52A7-4524-AD0F-C5A52E0BC44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145CE83D-7D1E-4988-B8BD-02F375B75300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145CE83D-7D1E-4988-B8BD-02F375B75300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145CE83D-7D1E-4988-B8BD-02F375B75300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145CE83D-7D1E-4988-B8BD-02F375B75300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40BC8524-4F05-4E41-9599-7A7D82322274}
+	EndGlobalSection
+EndGlobal
