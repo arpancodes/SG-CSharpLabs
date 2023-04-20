@@ -69,6 +69,12 @@ namespace cs_con_Collections
 
             object oKeys = myKeyValuePairs.Keys;
             object oValues = myKeyValuePairs.Values;
+
+            foreach(var item in myKeyValuePairs)
+            {
+                Console.Write("{0} : {1}", item.Key, item.Value);
+            }
+
         }
     }
 }
