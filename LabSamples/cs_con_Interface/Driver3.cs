@@ -12,6 +12,7 @@ namespace cs_con_Interface
         {
             Console.WriteLine("Driver is driving");
             objVehicle.Drive();
+            Console.WriteLine("Registration Number: {0}", objVehicle.RegistrationNumber);
         }
 
     }

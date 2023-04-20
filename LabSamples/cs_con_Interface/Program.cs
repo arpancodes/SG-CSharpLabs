@@ -3,6 +3,13 @@
     // Client
     internal class Program : IAutomobile
     {
+        public string RegistrationNumber
+        {
+            get
+            {
+                return "NOT REGISTERED PROGRAM";
+            }
+        }
 
         public void Drive()
         {
@@ -24,8 +31,8 @@
             Console.WriteLine("---- Demo of INTERFACE");
 
             Driver3 objDriver = new Driver3();
-            Car objCar = new Car();
-            Scooter objScooter = new Scooter();
+            Car objCar = new Car("KA CAR 34884");
+            Scooter objScooter = new Scooter() { RegistrationNumber = "TN BAJAJ 34784" };
 
             objDriver.Drive(objCar);
             Console.WriteLine();
@@ -45,11 +52,11 @@
 
             Console.WriteLine("*** Driving Base type object");
 
-            Vehicle objVehicle = new Car();
+            Vehicle objVehicle = new Car("KA CAR 34884");
             objDriver.Drive(objVehicle);
             Console.WriteLine();
             
-            Car objCar = new Car();
+            Car objCar = new Car("KA CAR 9999");
             Scooter objScooter = new Scooter();
 
             objDriver.Drive(objCar);
@@ -66,7 +73,7 @@
         {
             Console.WriteLine("---- Demo of Overloaded Methods");
             Driver1 objDriver = new Driver1();
-            Car objCar = new Car();
+            Car objCar = new Car("KA CAR 34884");
             Scooter objScooter = new Scooter();
 
             objDriver.Drive(objCar);

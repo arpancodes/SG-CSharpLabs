@@ -10,6 +10,7 @@ namespace cs_con_Interface
     // 2. ONLY METHOD SIGNATURES allowed
     internal interface IAutomobile
     {
+        string RegistrationNumber { get; }
         void Drive();
     }
 }
