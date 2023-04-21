@@ -27,23 +27,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_Collections", "cs_co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_Indexer", "cs_con_Indexer\cs_con_Indexer.csproj", "{3AB25779-CBAA-4AB1-93B1-E0A87A6884B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_InterfaceConcepts", "cs_con_InterfaceConcepts\cs_con_InterfaceConcepts.csproj", "{9A0649E4-9A9C-4144-9745-5AD67859A7A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_InterfaceConcepts", "cs_con_InterfaceConcepts\cs_con_InterfaceConcepts.csproj", "{9A0649E4-9A9C-4144-9745-5AD67859A7A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_IComparable", "cs_con_IComparable\cs_con_IComparable.csproj", "{35751DEA-AD35-4E60-8F17-3785765EBDB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_IComparable", "cs_con_IComparable\cs_con_IComparable.csproj", "{35751DEA-AD35-4E60-8F17-3785765EBDB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_IEnumerator", "cs_con_IEnumerator\cs_con_IEnumerator.csproj", "{71479B93-C001-4E86-9391-602931C62595}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_IEnumerator", "cs_con_IEnumerator\cs_con_IEnumerator.csproj", "{71479B93-C001-4E86-9391-602931C62595}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_IEnumerable", "cs_con_IEnumerable\cs_con_IEnumerable.csproj", "{C7315ABF-437D-4218-AC6A-3C00E4459764}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_IEnumerable", "cs_con_IEnumerable\cs_con_IEnumerable.csproj", "{C7315ABF-437D-4218-AC6A-3C00E4459764}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_Generics", "cs_con_Generics\cs_con_Generics.csproj", "{B7A69656-3EF6-46A5-BF1A-D61791D89494}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_Generics", "cs_con_Generics\cs_con_Generics.csproj", "{B7A69656-3EF6-46A5-BF1A-D61791D89494}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_Delegates", "cs_con_Delegates\cs_con_Delegates.csproj", "{F81E2899-C65E-496A-82D1-E47B10229BD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_Delegates", "cs_con_Delegates\cs_con_Delegates.csproj", "{F81E2899-C65E-496A-82D1-E47B10229BD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_DelegatesMultiCast", "cs_con_DelegatesMultiCast\cs_con_DelegatesMultiCast.csproj", "{AD1ADD82-7F84-4805-A5DD-C1886CA2288B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_DelegatesMultiCast", "cs_con_DelegatesMultiCast\cs_con_DelegatesMultiCast.csproj", "{AD1ADD82-7F84-4805-A5DD-C1886CA2288B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_Events", "cs_con_Events\cs_con_Events.csproj", "{5C4A16DD-D753-44E2-A490-0ABA5056A0EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_Events", "cs_con_Events\cs_con_Events.csproj", "{5C4A16DD-D753-44E2-A490-0ABA5056A0EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_CS3Concepts", "cs_con_CS3Concepts\cs_con_CS3Concepts.csproj", "{37A3654E-5699-4857-B8AA-1A5B9D5B729A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_CS3Concepts", "cs_con_CS3Concepts\cs_con_CS3Concepts.csproj", "{37A3654E-5699-4857-B8AA-1A5B9D5B729A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_Arrays", "cs_con_Arrays\cs_con_Arrays.csproj", "{DED0FA40-47CD-4DA0-AD39-59EF2E4AD3FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_Constructors", "cs_con_Constructors\cs_con_Constructors.csproj", "{CA3463F2-D5A3-44DB-9D2E-A599FA382248}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_Constructors_Inheritance", "cs_con_Constructors_Inheritance\cs_con_Constructors_Inheritance.csproj", "{5E45E61D-9790-4F91-B5BC-D22AEBB82FB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{37A3654E-5699-4857-B8AA-1A5B9D5B729A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37A3654E-5699-4857-B8AA-1A5B9D5B729A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37A3654E-5699-4857-B8AA-1A5B9D5B729A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED0FA40-47CD-4DA0-AD39-59EF2E4AD3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED0FA40-47CD-4DA0-AD39-59EF2E4AD3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED0FA40-47CD-4DA0-AD39-59EF2E4AD3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED0FA40-47CD-4DA0-AD39-59EF2E4AD3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3463F2-D5A3-44DB-9D2E-A599FA382248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3463F2-D5A3-44DB-9D2E-A599FA382248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3463F2-D5A3-44DB-9D2E-A599FA382248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3463F2-D5A3-44DB-9D2E-A599FA382248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E45E61D-9790-4F91-B5BC-D22AEBB82FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E45E61D-9790-4F91-B5BC-D22AEBB82FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E45E61D-9790-4F91-B5BC-D22AEBB82FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E45E61D-9790-4F91-B5BC-D22AEBB82FB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
